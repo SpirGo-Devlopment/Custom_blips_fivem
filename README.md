@@ -10,4 +10,4 @@ What does the script contain? Blips you can turn on or off! So you can configure
 # Status
 ![Victqr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victqr&show_icons=true&theme=gotham)
 
-<a href="https://www.patreon.com/bePatron?u=56500944" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/bePatron?u=56500944" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
